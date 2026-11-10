@@ -13,4 +13,33 @@ A(10, 15) =
 2 * (2 * **A(10, 3)** + 10) + 10 =
 2 * (2 * (2 * **A(10, 1)** + 10) + 10) + 10 = 150
 
-![alt text](<assets/zadanie 1.1.png>)# matura-arkusze
+A(1.2^100) - zawsze wchodzi w warunek 2 * A(m, n-1/2) + m co skutkuje 100 wywołaniami
+
+![zadanie 1.1](<assets/zadanie 1.1.png>)
+
+## Zadanie 2.1
+88765 + 11111 =
+
+```text
+    8 8 7 6 5
++   1 1 1 1 1
+-------------
+    9 9 8 7 6    
+```
+
+a więc 0 przeniesień
+
+456789 + 222222 =
+```text
+        1 1 1 
+    4 5 6 7 8 9
++   2 2 2 2 2 2
+---------------
+    6 7 9 0 1 1  
+```
+
+a więc 3 przeniesienia
+
+![zadanie 2.1](<assets/zadanie 2.1.png>)
+
+##
