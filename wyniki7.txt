@@ -1,0 +1,15 @@
+1. Zadanie
+Miesiac	Średnia z Temp
+sty	1,1
+lut	4,1
+mar	4,1
+kwi	7,4
+maj	15,9
+cze	20,5
+lip	20,4
+sie	21,1
+wrz	13,7
+paź	12,5
+lis	5,2
+gru	1,6
+Suma końcowa	10,7
